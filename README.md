@@ -1,8 +1,6 @@
-# TradeDeck — Skeuomorphic Stock Trading App
+# TradeDeck —  Stock Trading App
 
-A full-stack simulated stock trading app (MERN) styled as a physical control panel:
-beveled buttons, glossy toggles, chrome knobs, and LED indicators.
-
+A full-stack simulated stock trading app (MERN)
 ## Project Structure
 
 ```
